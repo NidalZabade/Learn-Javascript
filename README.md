@@ -1,5 +1,38 @@
 # Learn Javascript
 
+## Table of Contents
+
+- [Learn Javascript](#learn-javascript)
+  - [Table of Contents](#table-of-contents)
+  - [Comments](#comments)
+  - [Data Types](#data-types)
+  - [Variables](#variables)
+    - [Difference between `var`, `let` and `const`](#difference-between-var-let-and-const)
+  - [Type Conversion](#type-conversion)
+  - [Conditional Statements](#conditional-statements)
+  - [Loops](#loops)
+  - [Functions](#functions)
+  - [Arrays](#arrays)
+  - [Sets](#sets)
+  - [Objects](#objects)
+  - [Classes](#classes)
+  - [Inheritance](#inheritance)
+  - [Class Encapsulation](#class-encapsulation)
+  - [JSON](#json)
+    - [JSON Syntax](#json-syntax)
+  - [API](#api)
+  - [Synchronous and Asynchronous](#synchronous-and-asynchronous)
+  - [Call Stack](#call-stack)
+  - [Callback](#callback)
+  - [Event Loop](#event-loop)
+  - [Callback Hell or Pyramid of Doom](#callback-hell-or-pyramid-of-doom)
+  - [Promises](#promises)
+  - [XHR with Promises](#xhr-with-promises)
+  - [Fetch API](#fetch-api)
+  - [Promise All, All Settled and Race](#promise-all-all-settled-and-race)
+  - [Async and Await](#async-and-await)
+  - [Try , Catch and Finally](#try--catch-and-finally)
+
 ## Comments
 
 You can write a single line comment in Javascript using `//` and use `/* */` for multiple line comment. For example:
